@@ -44,7 +44,7 @@ Tabela de conteúdos
 - :white_check_mark: Realizar login na plataforma.
 - [x] Realizar check-in de veículos.   
 - [x] Realizar check-out de veículos.
-- [x] Realizar alteração do check-in do veículos.
+- [x] Realizar alteração do check-in dos veículos.
 - [x] Realizar a listagem de todos os veículos em check-in.
 - [x] Realizar cadastro de serviços.
 - [x] Realizar atribuição e alteração de permissão de colaboradores.
