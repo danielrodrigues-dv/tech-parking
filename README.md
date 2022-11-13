@@ -98,7 +98,7 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone https://gitlab.com/tech-bookcase/tech-parking/tech-parking-app.git
+$ git clone https://gitlab.com/tech-bookcase/tech-parking/tech-parking-app.git](https://github.com/danielrodrigues-dv/tech-parking.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd tech-parking-app
