@@ -92,13 +92,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) (16.13.0) ou superior, [Ionic](https://ionicframework.com/docs) (6.19.1) ou superior e [Angular](https://angular.io/) (14.0.0) ou superior. 
 Além disso é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-
+https://github.com/danielrodrigues-dv/tech-parking.git
 
 #### 🧭 Rodando a aplicação Web
 ```bash
 
 # Clone este repositório
-$ git clone https://gitlab.com/tech-bookcase/tech-parking/tech-parking-app.git](https://github.com/danielrodrigues-dv/tech-parking.git
+$ git clone https://github.com/danielrodrigues-dv/tech-parking.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd tech-parking-app
