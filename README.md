@@ -34,7 +34,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
- Uma aplicativo mobile que gerência todo o fluxo de um estacionamento.
+ Um aplicativo mobile que gerência todo o fluxo de um estacionamento.
 
 ---
 
